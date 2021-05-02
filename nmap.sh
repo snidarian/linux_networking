@@ -49,7 +49,7 @@ nmap <ip-address> --reason
 
 
 
-# you can targets to scan, their hostnames and their ip addresses
+# you can list targets to scan, their hostnames and their ip addresses
 nmap -sL
 
 
